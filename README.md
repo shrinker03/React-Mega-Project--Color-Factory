@@ -1,4 +1,7 @@
 Watch the Demo here : https://react-color-factory.vercel.app/
+
+|Technology used :- >React, >React-Form, >React-Router, >React Drag and Drop
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
