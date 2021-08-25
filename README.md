@@ -1,7 +1,7 @@
 Watch the Demo here : https://react-color-factory.vercel.app/
 
 Technology used :- 
-> React > React-Form > React-Router > React Drag and Drop
+> React > React-Form > React-Router > React Drag and Drop > Firebase > Firestore
 
 # Getting Started with Create React App
 
