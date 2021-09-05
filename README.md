@@ -3,7 +3,7 @@ Watch the Demo here : https://react-color-factory.vercel.app/
 Overview of Project:- This Web Application helps the designer to create and explore the Color Palettes for Designing Purposes. This app is made using Reactjs, Material-UI, React Drag and Drop and Vercel.
 
 Technology used :- 
-> React > React-Form > React-Router > React Drag and Drop > Firebase > Firestore
+> React > React-Form > React-Router > React Drag and Drop 
 
 # Getting Started with Create React App
 
