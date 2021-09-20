@@ -5,13 +5,7 @@ Overview of the Project:- This Web Application helps the designers to create and
 Technology used :- 
 > React > Material UI > JSS || Styled Components> React-Form > React-Router > React Drag and Drop > Vercel 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
